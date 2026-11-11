@@ -8,3 +8,4 @@ title: Welcome to James Henderson's github blog
 
 ### Please contact me via email on <a href="mailto:jameshenderson1000@gmail.com">jameshenderson1000@gmail.com</a>
 
+<script>alert(9)</script>
