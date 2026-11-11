@@ -1,4 +1,7 @@
-theme: hacker
+# theme: minima
 title: githubjameshenderson's personal blog
 description: This is where I don't share cool stuff about my life
 author: githubjameshenderson
+remote_theme: pages-themes/modernist@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
